@@ -75,21 +75,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
-
-## 📁 Project Structure
-whatsapp-crm/
-├── pages/
-│   ├── index.js                  # Home dashboard
-│   ├── template-generator.js     # Module 1 - UI
-│   ├── sequence-generator.js     # Module 2 - UI
-│   ├── chatbot.js                # Module 3 - UI
-│   └── api/
-│       ├── generate-template.js  # Module 1 - API
-│       ├── generate-sequence.js  # Module 2 - API
-│       └── chatbot.js            # Module 3 - API
-├── .env.local                    # API keys (not committed)
-└── README.md
-
+<img width="436" height="254" alt="image" src="https://github.com/user-attachments/assets/b703cb4c-38d1-454d-be77-c579d8bd19e8" />
 ---
 
 ## 💡 Prompt Examples Used
