@@ -3,6 +3,7 @@
 An AI-powered WhatsApp CRM built with Next.js featuring template generation, sequence automation, and an intelligent chatbot — powered by Groq (LLaMA 3.3).
 
 ---
+<img width="1434" height="816" alt="image" src="https://github.com/user-attachments/assets/fc203d1c-fcfa-4c36-80ce-0fef39cd5a2a" />
 
 ## 🚀 Features
 
@@ -11,12 +12,14 @@ An AI-powered WhatsApp CRM built with Next.js featuring template generation, seq
 - Supports Marketing, Utility, and Authentication categories
 - Uses dynamic variables like `{{1}}`, `{{2}}` following WhatsApp guidelines
 - One-click copy to clipboard
+<img width="1433" height="823" alt="image" src="https://github.com/user-attachments/assets/750af098-8dd3-41fe-aee7-93dce1df288f" />
 
 ### 🔁 AI Sequence Generator
 - Generate multi-step message sequences from a single prompt
 - Structured steps with realistic delays (Immediately, After 1 day, etc.)
 - Fully editable before saving
 - Perfect for onboarding, follow-ups, and re-engagement flows
+<img width="1439" height="834" alt="image" src="https://github.com/user-attachments/assets/0aa3dbbc-d0a8-4eb2-953a-1826e50836e4" />
 
 ### 🤖 AI Chatbot
 - WhatsApp-style chat interface
@@ -24,6 +27,7 @@ An AI-powered WhatsApp CRM built with Next.js featuring template generation, seq
 - AI fallback using LLaMA 3.3 for unknown queries
 - Human escalation support
 - Quick reply buttons for common questions
+<img width="948" height="833" alt="image" src="https://github.com/user-attachments/assets/5e89c9c6-f193-4574-9d73-a7a8cb25fc14" />
 
 ---
 
